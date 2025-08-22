@@ -39,7 +39,7 @@ self-healing-infra/
 ## How to Run
 1. Clone the repository and navigate to the folder:
    ```bash
-   git clone <repo-url>
+   git clone <https://github.com/7780622780/self-healing-infrastructure>
    cd self-healing-infra
 
 2.Start services:

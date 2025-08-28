@@ -110,15 +110,3 @@ Self-healing automation (Ops service + Ansible)
 Alerts firing (pending environment issue)
 
 Even though alerts did not fire in real-time, the architecture and configuration files included in this repository prove a strong understanding of DevOps monitoring and self-healing workflows.
-
-
-
-## 🔗 Additional References
-
-In case you face any issues, or if you want to view the projects separately for clarity, you can check the original repositories here:
-
-- [CI/CD Pipeline with GitHub Actions & Docker](https://github.com/7780622780/cicd-docker-local)  
-- [Self-Healing Infrastructure with Prometheus, Alertmanager & Ansible](https://github.com/7780622780/self-healing-infrastructure)  
-
-These repos contain the same project files individually, which might help for easier navigation or debugging.
-
